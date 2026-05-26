@@ -1,21 +1,17 @@
-# Portfólio de Segurança Cibernética
+## Formação em Segurança Cibernética
 
-## Declaração Profissional
+Atualmente cursando a certificação Google Cybersecurity Professional Certificate pela Coursera.
 
-Sou um profissional em formação na área de segurança cibernética, dedicado, analítico e comprometido com a proteção de informações e sistemas. Tenho interesse em identificar riscos, fortalecer a segurança digital e contribuir para que organizações mantenham a confidencialidade, integridade e disponibilidade de seus dados.
+### Cursos concluídos
+- Foundations of Cybersecurity – Google / Coursera
 
-## Habilidades
-- Análise de riscos
-- Segurança da informação
-- Redes
-- Linux
-- Fundamentos de SIEM
-- Gestão de vulnerabilidades
+### Conhecimentos desenvolvidos
+- Fundamentos de segurança da informação
+- Conceitos da tríade CIA
+- Gestão de riscos
+- Tipos de ameaças e vulnerabilidades
+- Funções de um analista de segurança
+- Boas práticas de proteção de dados
 
-## Certificados
-- Google Cybersecurity Certificate (em andamento)
-
-## Projetos
-- Auditoria de segurança
-- Relatórios de análise de risco
-- Exercícios de phishing
+### Objetivo Profissional
+Busco desenvolver carreira na área de segurança cibernética, contribuindo para a proteção de sistemas, redes e informações através de práticas seguras, análise de riscos e aprendizado contínuo.
