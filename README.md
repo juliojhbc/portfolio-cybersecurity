@@ -15,3 +15,8 @@ Atualmente cursando a certificação Google Cybersecurity Professional Certifica
 
 ### Objetivo Profissional
 Busco desenvolver carreira na área de segurança cibernética, contribuindo para a proteção de sistemas, redes e informações através de práticas seguras, análise de riscos e aprendizado contínuo.
+
+
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Student-blue)
+![Google](https://img.shields.io/badge/Google-Cybersecurity-red)
+![Coursera](https://img.shields.io/badge/Coursera-Certification-blue)
